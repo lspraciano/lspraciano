@@ -1,4 +1,4 @@
-<h1>  Olá eu sou a Lucas Praciano, biomédico e programador!  </h1>
+<h1 align="center">  Olá eu sou a Lucas Praciano, biomédico e programador!  </h1>
 
 <div align="center">
   <a href="https://github.com/lspraciano">
@@ -14,13 +14,13 @@
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lucas-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">    
 </div>
-    <br> <a href="https://www.linkedin.com/in/lucas-praciano-420552210" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div>  
-
   
+    <br> <a href="https://www.linkedin.com/in/lucas-praciano-420552210" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   ##
- 
+  
   ![Snake animation](https://github.com/lspraciano/lspraciano/blob/output/github-contribution-grid-snake.svg)
+  
+</div>  
 
 
 
