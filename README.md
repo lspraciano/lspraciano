@@ -15,7 +15,8 @@
   <img align="center" alt="Lucas-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">    
 </div>
   
-    <br> <a href="https://www.linkedin.com/in/lucas-praciano-420552210" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <br> <a href="https://www.linkedin.com/in/lucas-praciano-420552210" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  
   ##
   
   ![Snake animation](https://github.com/lspraciano/lspraciano/blob/output/github-contribution-grid-snake.svg)
