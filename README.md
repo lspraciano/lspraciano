@@ -1,6 +1,6 @@
 ## Olá eu sou a Lucas Praciano, biomédico e programador!
 
-<div align="center">
+<div style="display: flex; justify-content: center;">
   <a href="https://github.com/lspraciano">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lspraciano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lspraciano&layout=compact&langs_count=7&theme=dracula"/>
