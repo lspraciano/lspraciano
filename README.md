@@ -9,7 +9,7 @@ Tenho 34 anos, moro em Fortale-CE e estou realizando migração de carreira para
 - 👯 Gostaria de colaborar com projetos Python para Web ou Inteligência Artificial
 - 🤔 Busco ajuda para me encaixar no mercado
 - 💬 Me pergunte sobre: Ciências no Geral (Universo, Cosmologia, Python, Inteligência Artificial, Biologia Molecular, Desigualdade de Bell)
-- ⚡ Curiosidade: A maior glândula do seu corpo é o fígado, o maior orgão é a pele e buracos negros podem evaporar devido a Radiação Hawking
+- ⚡ Curiosidades: A maior glândula do seu corpo é o fígado, o maior orgão é a pele e buracos negros podem evaporar devido a Radiação Hawking
  
 
 <div align="center">
