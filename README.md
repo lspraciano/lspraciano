@@ -1,13 +1,12 @@
 # Olá, me chamo Lucas Praciano
 ## Bem vindo ao meu perfil GitHub 👋
 
-Tenho 34 anos, moro em Fortale-CE e estou realizando migração de carreira para a área de desenvolvimento. Sou graduado em biomedicina e por ser apaixonado por ciências sempre percebi que poderia melhorar as coisas ao meu redor, mas me faltava o conhecimento para isso, pois a imaginação eu tenho de forma abundante. Em 2020 entrei em uma pós graduação de aprendizado de máquinas e inteligência artificial pela PUC de Minas, neste mesmo período em atuava como coordenador de um laboratório clínico, então em 2022 defendi meu TCC usando machine learning para contruir um modelo usando Random Forest que laudava os exames laboratoriais.
+Tenho 34 anos, moro em Fortaleza-CE e estou realizando migração de carreira para a área de desenvolvimento. Sou graduado em biomedicina e por ser apaixonado por ciências sempre percebi que poderia melhorar as coisas ao meu redor, mas me faltava o conhecimento para isso, pois a imaginação eu tenho de forma abundante. Em 2020 entrei em uma pós graduação de aprendizado de máquinas e inteligência artificial pela PUC de Minas, neste mesmo período em atuava como coordenador de um laboratório clínico, então em 2022 defendi meu TCC usando machine learning para contruir um modelo usando Random Forest que laudava os exames laboratoriais.
  
 
-- 🔭 Atualmente estou avaliando qual meu próximo projeto
+- 🔭 Atualmente trabalho no Laboratório Hipólito Monte como desenvolvedor
 - 🌱 Estou estudando ReactJS
 - 👯 Gostaria de colaborar com projetos Python para Web ou Inteligência Artificial
-- 🤔 Busco ajuda para me encaixar no mercado
 - 💬 Me pergunte sobre: Ciências no Geral (Universo, Cosmologia, Python, Inteligência Artificial, Biologia Molecular, Desigualdade de Bell)
 - ⚡ Curiosidades: A maior glândula do seu corpo é o fígado, o maior orgão é a pele e buracos negros podem evaporar devido a Radiação Hawking
  
