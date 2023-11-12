@@ -1,7 +1,7 @@
 # Olá, me chamo Lucas Praciano
 ## Bem vindo ao meu perfil GitHub 👋
 
-Tenho 35 anos, moro em Fortaleza-CE e estou realizando migração de carreira para a área de desenvolvimento. Sou graduado em biomedicina e por ser apaixonado por ciências sempre percebi que poderia melhorar as coisas ao meu redor, mas me faltava o conhecimento para isso, pois a imaginação eu tenho de forma abundante. Em 2020 entrei em uma pós graduação de aprendizado de máquinas e inteligência artificial pela PUC de Minas, neste mesmo período em atuava como coordenador de um laboratório clínico, então em 2022 defendi meu TCC usando machine learning para contruir um modelo usando Random Forest que laudava os exames laboratoriais.
+Olá! Sou Lucasa Praciano, um entusiasta de ciências de 35 anos de Fortaleza-CE, que recentemente migrou para o desenvolvimento após se formar em biomedicina. Ao perceber a necessidade de combinar minha imaginação abundante com conhecimento técnico, embarquei em uma pós-graduação em Aprendizado de Máquinas e Inteligência Artificial pela PUC de Minas, enquanto coordenava um laboratório clínico. Em 2022, defendi meu TCC, destacando um modelo inovador baseado em Random Forest para laudar exames laboratoriais. Aqui no meu GitHub, compartilho projetos que refletem minha paixão por ciência e aprendizado de máquinas, convidando você a explorar e contribuir para esta jornada emocionante! 🚀
  
 
 - 🔭 Atualmente trabalho como desenvolvedor autônomo
