@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Lucas%20Praciano&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%7C%20Python%20Full%20Stack%20%7C%20LLMs%20%26%20AI%20Agents&descAlignY=55&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:3a1c71,50:d76d77,100:ffaf7b&height=200&section=header&text=Lucas%20Praciano&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%7C%20Python%20Full%20Stack%20%7C%20LLMs%20%26%20AI%20Agents&descAlignY=55&descSize=18)
 
 # 👋 Olá, sou Lucas Praciano
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6A9FD8&width=435&lines=AI+Engineer+Sr.;Python+Full+Stack+Developer;LLMs+%26+AI+Agents+Specialist;Multi-Agent+Systems+Architect;Biomedical+Background+%2B+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6A9FD8&width=500&lines=AI+Engineer+Sr.%3BPython+Full+Stack+Developer%3BLLMs+%26+AI+Agents+Specialist%3BMulti-Agent+Systems+Architect%3BBiomedical+Background+%2B+AI)](https://git.io/typing-svg)
 
 Sou um desenvolvedor Python Full Stack apaixonado por Inteligência Artificial, com mais de 5 anos de experiência construindo soluções de IA para clientes corporativos e governamentais. Ao longo dessa jornada, tive a oportunidade de trabalhar em projetos desafiadores que vão desde sistemas de visão computacional até arquiteturas multiagentes com LLMs.
 
@@ -26,4 +26,4 @@ Minha trajetória é incomum: me formei em **Biomedicina** e coordenei um labora
 
 ![Snake animation](https://github.com/lspraciano/lspraciano/blob/output/github-contribution-grid-snake.svg)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:3a1c71,50:d76d77,100:ffaf7b&height=100&section=footer)
