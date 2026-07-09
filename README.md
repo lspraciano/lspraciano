@@ -1,40 +1,29 @@
-# Olá, me chamo Lucas Praciano
-## Bem vindo ao meu perfil GitHub 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Lucas%20Praciano&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%7C%20Python%20Full%20Stack%20%7C%20LLMs%20%26%20AI%20Agents&descAlignY=55&descSize=18)
 
-Olá! Sou Lucas Praciano, um entusiasta de ciências de 36 anos de Fortaleza-CE, que recentemente migrou para o desenvolvimento após se formar em biomedicina. Ao perceber a necessidade de combinar minha criatividade com conhecimento técnico, embarquei em uma pós-graduação em Aprendizado de Máquinas e Inteligência Artificial pela PUC de Minas, enquanto coordenava um laboratório clínico. Em 2022, defendi meu TCC, destacando um modelo inovador baseado em Random Forest para laudar exames laboratoriais. Aqui no meu GitHub, compartilho projetos que refletem minha paixão por ciência e aprendizado de máquinas, convidando você a explorar e contribuir para esta jornada emocionante! 🚀
- 
+# 👋 Olá, sou Lucas Praciano
 
-- 🔭 Atualmente trabalho como desenvolvedor especialista em Inteligência Artificial
-- 🌱 Estou estudando LLMs
-- 👯 Gostaria de colaborar com projetos Python para Web ou Inteligência Artificial
-- 💬 Me pergunte sobre: Ciências no Geral (Universo, Cosmologia, Python, Inteligência Artificial, Biologia Molecular, Desigualdade de Bell)
-- ⚡ Curiosidades: A maior glândula do seu corpo é o fígado, o maior orgão é a pele e buracos negros podem evaporar devido a Radiação Hawking
- 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6A9FD8&width=435&lines=AI+Engineer+Sr.;Python+Full+Stack+Developer;LLMs+%26+AI+Agents+Specialist;Multi-Agent+Systems+Architect;Biomedical+Background+%2B+AI)](https://git.io/typing-svg)
 
-<div align="center">
-  <a href="https://github.com/lspraciano">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lspraciano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lspraciano&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+Sou um desenvolvedor Python Full Stack apaixonado por Inteligência Artificial, com mais de 5 anos de experiência construindo soluções de IA para clientes corporativos e governamentais. Ao longo dessa jornada, tive a oportunidade de trabalhar em projetos desafiadores que vão desde sistemas de visão computacional até arquiteturas multiagentes com LLMs.
 
-<div  align="center">   
-<div style="display: inline_block"><br>
-  <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Lucas-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
-  <img align="center" alt="Lucas-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  
-</div>
-  
-  <br> <a href="https://www.linkedin.com/in/lucas-praciano-420552210" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-  
-  ##
-  
-  ![Snake animation](https://github.com/lspraciano/lspraciano/blob/output/github-contribution-grid-snake.svg)
-  
-</div>  
+# 🚀 Expertise
 
+Especializado em desenvolvimento de **sistemas de IA e agentes inteligentes**, combino arquitetura de software escalável com as mais modernas técnicas de Machine Learning e LLMs. Tenho experiência comprovada em projetos de ponta a ponta: desde o levantamento de requisitos até o deploy em produção com CI/CD, containers e cloud.
 
+Na minha jornada profissional, assumi o papel de **Tech Lead** em projetos para clientes governamentais, liderando o desenvolvimento de sistemas multiagentes com LangChain e LangGraph aplicados à investigação e ao atendimento ao público. Atualmente atuo como **AI Engineer Sr.**, criando e evoluindo agentes de IA em larga escala.
 
+Minha trajetória é incomum: me formei em **Biomedicina** e coordenei um laboratório clínico antes de migrar para a tecnologia. Essa visão multidisciplinar me permite enxergar problemas de forma única, especialmente em aplicações de IA na área da saúde.
+
+# 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%235C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031?style=for-the-badge&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5?style=for-the-badge&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5?style=for-the-badge&logo=githubactions&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243?style=for-the-badge&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/MLflow-%23d9ead3?style=for-the-badge&logo=mlflow&logoColor=blue) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![C++](https://img.shields.io/badge/c%2B%2B-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+# 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-praciano-420552210)
+
+---
+
+![Snake animation](https://github.com/lspraciano/lspraciano/blob/output/github-contribution-grid-snake.svg)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
