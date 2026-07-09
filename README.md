@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:3a1c71,50:d76d77,100:ffaf7b&height=200&section=header&text=Lucas%20Praciano&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%7C%20Python%20Full%20Stack%20%7C%20LLMs%20%26%20AI%20Agents&descAlignY=55&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:3a1c71,50:d76d77,100:ffaf7b&height=200&section=header&text=Lucas%20Praciano&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%7C%20Python%20Full%20Stack%20%7C%20LLMs%20%7C%20AI%20Agents&descAlignY=55&descSize=18)
 
 # 👋 Olá, sou Lucas Praciano
 
