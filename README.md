@@ -24,6 +24,6 @@ Minha trajetória é incomum: me formei em **Biomedicina** e coordenei um labora
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/lspraciano/lspraciano/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/lspraciano/lspraciano/blob/output/github-contribution-grid-snake.svg)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:3a1c71,50:d76d77,100:ffaf7b&height=100&section=footer)
